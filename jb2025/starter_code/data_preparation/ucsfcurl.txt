@@ -1,0 +1,107 @@
+curl http://coursecatalog.ucsf.edu/anatomy >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/ane_periop >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/anatomy >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/anthropo  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/biochem  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/bioengr  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/bio_md_inf  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/biomed_img  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/biomed_sci  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/biophrm_sc  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/biophysics  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/biostat  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/den_pub_hl  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/dentalsci  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/dermatol  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/dev_stmcell  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/emerg_med  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/endodontic  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/epidemiol  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/fam_cm_med  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/genetics  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/hlth_admin  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/hist_hl_sc  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/interdept  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/lab_med  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/medicine  >> ucsfcatalog.html
+curl http://coursecatalog.ucsf.edu/microbiol >> ucsfcatalog.html
+
+i pulled all the lines above this. for some reason it wouldn't use the / command.
+
+
+'>Microbiology</a></div>
+                    </div>
+                        </div><div class="large-6 columns small-12">
+                <div class="large-2 columns">
+            <div class="catalog_letter">N</div>
+        </div>
+        <div class="large-10 columns catalog_section">
+                        <div class="catalog_subject"><a href='/neurology'>Neurology</a></div>
+                        <div class="catalog_subject"><a href='/neurosci'>Neurosciences</a></div>
+                        <div class="catalog_subject"><a href='/neuro_surg'>Neurosurgery</a></div>
+                        <div class="catalog_subject"><a href='/nursing'>Nursing</a></div>
+                        <div class="catalog_subject"><a href='/nutrition'>Nutrition</a></div>
+                    </div>
+                    <div class="large-2 columns">
+            <div class="catalog_letter">O</div>
+        </div>
+        <div class="large-10 columns catalog_section">
+                        <div class="catalog_subject"><a href='/ob_gyn_r_s'>Obstetrics, Gynecology &amp; Reproductive Sciences</a></div>
+                        <div class="catalog_subject"><a href='/ophthalmol'>Ophthalmology</a></div>
+                        <div class="catalog_subject"><a href='/or_cra_fac'>Oral &amp; Craniofacial Sciences</a></div>
+                        <div class="catalog_subject"><a href='/or_mx_surg'>Oral &amp; Maxillofacial Surgery</a></div>
+                        <div class="catalog_subject"><a href='/oral_med'>Oral Medicine</a></div>
+                        <div class="catalog_subject"><a href='/oral_path'>Oral Pathology</a></div>
+                        <div class="catalog_subject"><a href='/oral_rad'>Oral Radiology</a></div>
+                        <div class="catalog_subject"><a href='/orofac_sci'>Orofacial Sciences</a></div>
+                        <div class="catalog_subject"><a href='/orthodont'>Orthodontics</a></div>
+                        <div class="catalog_subject"><a href='/ortho_surg'>Orthopaedic Surgery</a></div>
+                        <div class="catalog_subject"><a href='/otolaryn'>Otolaryngology</a></div>
+                    </div>
+                    <div class="large-2 columns">
+            <div class="catalog_letter">P</div>
+        </div>
+        <div class="large-10 columns catalog_section">
+                        <div class="catalog_subject"><a href='/pathology'>Pathology</a></div>
+                        <div class="catalog_subject"><a href='/pt_cn_care'>Patient - Centered Care</a></div>
+                        <div class="catalog_subject"><a href='/ped_dent'>Pediatric Dentistry</a></div>
+                        <div class="catalog_subject"><a href='/pediatrics'>Pediatrics</a></div>
+                        <div class="catalog_subject"><a href='/periodont'>Periodontology</a></div>
+                        <div class="catalog_subject"><a href='/pharm_chem'>Pharmaceutical Chemistry</a></div>
+                        <div class="catalog_subject"><a href='/pharmgenom'>Pharmacogenomics</a></div>
+                        <div class="catalog_subject"><a href='/pharmacol'>Pharmacology</a></div>
+                        <div class="catalog_subject"><a href='/phys_ther'>Physical Therapy</a></div>
+                        <div class="catalog_subject"><a href='/physiology'>Physiology</a></div>
+                        <div class="catalog_subject"><a href='/policy_law'>Policy Law</a></div>
+                        <div class="catalog_subject"><a href='/prv_rs_den'>Preventive &amp; Restorative Dental Sciences</a></div>
+                        <div class="catalog_subject"><a href='/psychiatry'>Psychiatry</a></div>
+                        <div class="catalog_subject"><a href='/psychology'>Psychology</a></div>
+                    </div>
+                    <div class="large-2 columns">
+            <div class="catalog_letter">R</div>
+        </div>
+        <div class="large-10 columns catalog_section">
+                        <div class="catalog_subject"><a href='/rad_oncol'>Radiation Oncology</a></div>
+                        <div class="catalog_subject"><a href='/radiology'>Radiology</a></div>
+                        <div class="catalog_subject"><a href='/restor_den'>Restorative Dental Sciences</a></div>
+                    </div>
+                    <div class="large-2 columns">
+            <div class="catalog_letter">S</div>
+        </div>
+        <div class="large-10 columns catalog_section">
+                        <div class="catalog_subject"><a href='/scimethods'>Scientific Methods</a></div>
+                        <div class="catalog_subject"><a href='/sociology'>Sociology</a></div>
+                        <div class="catalog_subject"><a href='/surgery'>Surgery</a></div>
+                    </div>
+                    <div class="large-2 columns">
+            <div class="catalog_letter">U</div>
+        </div>
+        <div class="large-10 columns catalog_section">
+                        <div class="catalog_subject"><a href='/urology'>Urology</a></div>

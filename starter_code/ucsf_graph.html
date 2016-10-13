@@ -2,7 +2,7 @@
 <html>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="d3.tip.js"></script>
-<script src="mitclean.js"></script>
+<script src="ucsfcatalogclean.js"></script>
 <script src="mitcourses_graph.js"></script>
 <link rel="stylesheet" href="styles-example.css">
 <body>
@@ -11,8 +11,9 @@
 </body>
 <script>
 // load scurbbed html into target
-document.getElementById('target').innerHTML = mitcourses; //this variable comes from the mitclean.js
-var list = document.getElementsByTagName('h3');
+document.getElementById('target').innerHTML = ucsf; //this variable comes from the ucsfclean.js
+var list = document.getElementsByClassName('catalog_subject');
+
 // create array from node list (DOM list)
 list = Array.prototype.slice.call(list);
 // get the titles
